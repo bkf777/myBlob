@@ -11,13 +11,7 @@ topMenu:
   - label: 好伙伴
     icon: paw
     url: /friends/
-  - label: 链接
-    icon: link
-    submenu:
-      - label: 作者博客
-        url: https://candinya.com
-      - label: 项目链接
-        url: https://github.com/Candinya/Kratos-Rebirth
+ 
 
 group_link: https://matrix.to/#/#CandyUnion:nya.one
 footerLinks:

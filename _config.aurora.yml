@@ -9,15 +9,15 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
-  nick: Auroral UI
+  subtitle: EZreal's Blog
+  author: EZreal
+  nick: 
   description:
   link: '/'
-  language: en
+  language: zh-CN
   multi_language: true
   logo:
-  avatar:
+  avatar: https://images.ezrealbbb.space/avatar.jpg
   beian:
     number: ''
     link: ''

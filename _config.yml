@@ -105,3 +105,15 @@ theme: aurora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+menu:
+  About: true
+  Tags: true
+  Archives: true
+  Links: true
+  # Custom menus
+  pages-menu:
+    name: 'MessageBoard'
+    path: '/page/message-board'
+    i18n:
+      cn: 留言板
+      en: Message board

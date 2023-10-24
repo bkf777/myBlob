@@ -1,10 +1,14 @@
 ---
 title: 我的第一篇博客
 subtitle: my first blog
-keywords: hexo, blog,first,第一次
+tag: hexo, blog,first,第一次
 ---
 
 ## Quick Start
+
+```bash
+$ hexo init <文件夹名>
+```
 
 ### Create a new post
 

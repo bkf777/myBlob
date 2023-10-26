@@ -117,3 +117,7 @@ menu:
     i18n:
       cn: 留言板
       en: Message board
+# code highlight
+shiki:
+  enable: true
+  backgroundColor: '#1a1a1a'

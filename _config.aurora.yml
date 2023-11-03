@@ -16,8 +16,8 @@ site:
   link: '/'
   language: zh-CN
   multi_language: true
-  logo: "./source/images/avatar.jpg"
-  avatar: 
+  logo: "https://images.ezrealbbb.space/avatar.jpg"
+  avatar: "https://images.ezrealbbb.space/avatar.jpg" 
   beian:
     number: ''
     link: ''

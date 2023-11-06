@@ -55,9 +55,8 @@ menu:
   About: true
   Tags: true
   Archives: true
-  Friends: false
-
-pages-menu:
+  # Custom menus
+  pages-menu:
     name: 'MessageBoard'
     path: '/page/message-board'
     i18n:

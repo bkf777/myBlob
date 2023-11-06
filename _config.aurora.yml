@@ -18,7 +18,6 @@ site:
   multi_language: true
   logo: "https://images.ezrealbbb.space/avatar.jpg"
   avatar: "https://images.ezrealbbb.space/avatar.jpg" 
-  permalink: /post/:title
   beian:
     number: ''
     link: ''

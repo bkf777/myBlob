@@ -115,19 +115,19 @@ site_meta:
 #! ---------------------------------------------------------------
 
 # For local development only!
-gitalk:
-  enable: true
-  autoExpand: true
-  clientID: '49ef51c9018272911e91'
-  clientSecret: '4a3a025d5a2ca5357e2608585acbf2c4e160f769'
-  repo: 'blog-comment' ## dev-blo-comments 
-  owner: 'bkf777' ## owner name
-  admin: [''] ## ['admin_name']
-  id: uid
-  language: en
-  distractionFreeMode: true
-  recentComment: true
-  proxy: ''
+# gitalk:
+#   enable: true
+#   autoExpand: true
+#   clientID: '49ef51c9018272911e91'
+#   clientSecret: '4a3a025d5a2ca5357e2608585acbf2c4e160f769'
+#   repo: 'blog-comment' ## dev-blo-comments 
+#   owner: 'bkf777' ## owner name
+#   admin: [''] ## ['admin_name']
+#   id: uid
+#   language: en
+#   distractionFreeMode: true
+#   recentComment: true
+#   proxy: ''
 
 # Valine comment plugin (recommended!)
 # see https://valine.js.org/quickstart.html

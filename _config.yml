@@ -111,12 +111,12 @@ menu:
   Archives: true
   Links: true
   # Custom menus
-  pages-menu:
-    name: 'MessageBoard'
-    path: '/page/message-board'
-    i18n:
-      cn: 留言板
-      en: Message board
+  # pages-menu:
+  #   name: 'MessageBoard'
+  #   path: '/page/message-board'
+  #   i18n:
+  #     cn: 留言板
+  #     en: Message board
 # code highlight
 shiki:
   enable: true
